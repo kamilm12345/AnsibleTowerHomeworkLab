@@ -18,7 +18,9 @@
 
 - On BASTION:
 
-$ export GUID=<GUID from email>
+$ export Tower_GUID=<Tower GUID from email>
+  
+$ export OSP_GUID=<OSP GUID from email>
   
 $ export MYKEY=<~/.ssh/your_key.pem>
 
