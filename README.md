@@ -15,3 +15,8 @@
 -Accept the terms and conditions if required, then click Submit.
 
 -Check your email for messages from Red Hat describing how to connect to the environments, including your GUIDs (unique identifiers) and environment details.
+
+- On BASTION:
+$ export GUID=<GUID from email>
+$ export MYKEY=<~/.ssh/your_key.pem>
+$ export MYUSER=<username-company.com>
