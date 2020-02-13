@@ -21,7 +21,3 @@
 $ export Tower_GUID=<Tower GUID from email>
   
 $ export OSP_GUID=<OSP GUID from email>
-  
-$ export MYKEY=<~/.ssh/your_key.pem>
-
-$ export MYUSER=<username-company.com>
